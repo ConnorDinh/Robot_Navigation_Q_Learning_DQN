@@ -1,0 +1,11 @@
+# Core environment and rendering
+gymnasium>=1.0,<2.0
+pygame>=2.5,<3.0
+
+# Deep reinforcement learning
+torch>=2.2
+
+# Experiment logs and visualizations
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
